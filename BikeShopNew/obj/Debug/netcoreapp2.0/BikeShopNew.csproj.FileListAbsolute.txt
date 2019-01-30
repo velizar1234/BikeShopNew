@@ -1,0 +1,22 @@
+K:\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.deps.json
+K:\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.runtimeconfig.json
+K:\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.runtimeconfig.dev.json
+K:\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.dll
+K:\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.pdb
+K:\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.csprojResolveAssemblyReference.cache
+K:\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.csproj.CoreCompileInputs.cache
+K:\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.AssemblyInfoInputs.cache
+K:\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.AssemblyInfo.cs
+K:\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.dll
+K:\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.pdb
+C:\V Projects\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.deps.json
+C:\V Projects\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.runtimeconfig.json
+C:\V Projects\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.runtimeconfig.dev.json
+C:\V Projects\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.dll
+C:\V Projects\BikeShopNew\BikeShopNew\bin\Debug\netcoreapp2.0\BikeShopNew.pdb
+C:\V Projects\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.csprojResolveAssemblyReference.cache
+C:\V Projects\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.csproj.CoreCompileInputs.cache
+C:\V Projects\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.AssemblyInfoInputs.cache
+C:\V Projects\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.AssemblyInfo.cs
+C:\V Projects\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.dll
+C:\V Projects\BikeShopNew\BikeShopNew\obj\Debug\netcoreapp2.0\BikeShopNew.pdb
